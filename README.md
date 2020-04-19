@@ -60,7 +60,7 @@ contains analysis of relationship between reviews by other customers and prices.
   - Summer months, specifically July and August are the peak times to visit Seattle with the highest of $156.5 
 - Analysis of relationship between reviews
   - The words "great host", "clean", "comfortable" and "highly recommended" are most used.
-  All these reviews and comments play increase the chances of travellers taking a look at the listing.
+  All these reviews and comments increase the chances of traveller taking a look at the listing.
   
 ### Acknowledgements<a name="acknowledgements"></a>
 - This dataset is only a small part of AirBnB inside. Original can be found [here](http://insideairbnb.com/get-the-data.html)
