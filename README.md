@@ -1,6 +1,9 @@
 # Data driven insights of Seattle AirBnB listings data
+<p align="center">
+  <img src="https://github.com/chaitanyakasaraneni/seattle_airbnb_dataAnalysis/blob/master/images/airbnb.jpg">
+</p>
 
-This project was done as a part of Udacity Data Scientist Nanodegree.
+This project was done as a part of Udacity Data Scientist Nanodegree. Link to medium article can be found [here](https://medium.com/@chaitanya_kasaraneni/data-driven-insights-of-seattle-airbnb-listings-data-f674e7444173)
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -24,6 +27,10 @@ Steps followed in this project:
 - **Data Processing:** Applied certain data cleaning and transformation techniques, handled missing data, removed the outliers, lemmatization, etc.
 - **Modeling:** Observed different distributions of interesting fields in data used them to conclude what aggregate method will be most appropriate.
 - **Evaluation/Visualization:** Visualized the analyses and obtained answers to the questions devised above.
+
+![Seattle Downtown](https://github.com/chaitanyakasaraneni/seattle_airbnb_dataAnalysis/blob/master/images/seattle_downtown.jpg)
+<p align="center">Seattle Downtown (Source:  <a href="https://www.flickr.com/photos/tiffany98101/15623134190">Flickr</a>)</p>
+
 
 ### Prerequisites<a name="prerequisites"></a>
 - Pandas (for data loading and analysis)
